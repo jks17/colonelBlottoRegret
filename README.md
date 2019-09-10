@@ -1,2 +1,2 @@
 # colonelBlottoRegret
-Regret learning implementation in Python to solve the Colonel Blotto Game
+Regret learning notebook in Python to solve the Colonel Blotto Game
